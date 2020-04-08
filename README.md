@@ -17,8 +17,3 @@ How it run:-
 
 for Running this application
 
-User Id and Password For Empolyee,Job Seeker ,Agency are same is :
-
-Id--->arunsinghsnd@gmail.com
-
-Pass-->Arun@55.com
